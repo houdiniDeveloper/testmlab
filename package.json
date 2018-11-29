@@ -1,0 +1,19 @@
+{
+  "name": "mlabtestapp",
+  "version": "1.0.0",
+  "description": "mlab test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Tosetto",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "koa-send": "^5.0.0",
+    "koa-static": "^5.0.0",
+    "mongoose": "^5.3.14"
+  }
+}
